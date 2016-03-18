@@ -1,0 +1,16 @@
+.header-images, .footer-links {
+    background: #1E1B1A;
+    padding: 3em 0;
+}
+
+.header-images img {
+    border: 5px solid #fff;
+}
+
+.footer-links {
+    color: #fff;
+}
+
+.content, .footer-copyrights {
+    padding: 2em 0;
+}
